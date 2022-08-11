@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Vaibhav Lalwani
+title: Vaibhav Lalwani
 
 # Username (this should match the folder name)
 authors:
@@ -72,6 +72,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
 
 I am an Assistant Professor in Finance at the Xavier Labour Relations Institute's (XLRI) Delhi NCR Campus. My research interests include asset pricing, investment strategies, aggregate accounting and forecasting.
+
 
