@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Assistant Professor (Finance and Accounts)
+role: Assistant Professor (Finance)
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Management Raipur
+- name: XLRI Delhi NCR
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Assistant Professor in Finance & Accounting at the Indian Institute of Management Raipur. My research interests include asset pricing, investment strategies, aggregate accounting and forecasting.
+I am an Assistant Professor in Finance at the Xavier Labour Relations Institute's (XLRI) Delhi NCR Campus. My research interests include asset pricing, investment strategies, aggregate accounting and forecasting.
 
