@@ -18,6 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "XLRI Xavier School of Management Delhi-NCR"
+  company_url = ""
+  location = "India"
+  date_start = "2022-07-05"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Teaching
+  * Research
+  * Training, Administratiion, and Consulting
+  """
+[[experience]]
+  title = "Visiting Assistant Professor"
+  company = "Indian Institute of Management Raipur"
+  company_url = ""
+  location = "India"
+  date_start = "2019-11-15"
+  date_end = "2022-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Teaching - Financial Analytics, Cost Accounting, Banking, Project Finance
+  * Research - Asset Pricing, Machine Learning, Forecasting
+  * Administrative - Area Chair, Warden
+  """
+[[experience]]
   title = "Probationary Officer"
   company = "SBI"
   company_url = ""
