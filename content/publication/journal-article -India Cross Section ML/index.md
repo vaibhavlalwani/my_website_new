@@ -57,7 +57,7 @@ projects = []
 slides = "example"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1YE1OVYE6ovEYKv8O_iqNi3XrryBuJbfZ/view?usp=sharing"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
