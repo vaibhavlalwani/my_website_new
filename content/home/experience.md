@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Teaching
   * Research
-  * Training, Administratiion, and Consulting
+  * Training, Administration, and Consulting
   """
 [[experience]]
   title = "Visiting Assistant Professor"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching - Financial Analytics, Cost Accounting, Banking, Project Finance
+  * Teaching - Financial Analytics, Cost Accounting, Banking, and Project Finance
   * Research - Asset Pricing, Machine Learning, Forecasting
   * Administrative - Area Chair, Warden
   """

@@ -34,7 +34,7 @@ summary = ""
 doi = "https://doi.org/10.1080/00036846.2021.1982132"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
