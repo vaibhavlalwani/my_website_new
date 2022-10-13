@@ -1,9 +1,9 @@
 +++
-title = "Multi-factor asset pricing models in emerging and developed markets"
+title = "The cross-section of Indian stock returns: evidence using machine learning"
 date = 2018-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Madhumita Chakraborty"]
+authors = ["admin", "Vedprakash Meshram"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["admin", "Madhumita Chakraborty"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Managerial Finance, 46*(3)"
+publication = "*Applied Economics*(3)"
 publication_short = ""
 
 # Abstract.
-abstract = "The purpose of this paper is to compare the performance of various multifactor asset pricing models across ten emerging and developed markets.We find that the Fama-French five-factor model improves the pricing performance for stocks in Australia, Canada, China and the USA. The pricing in these countries appears to be more integrated. However, the superior performance in these four countries is not consistent across a variety of test assets and the magnitude of reduction in pricing errors vis-à-vis three- or four-factor models is often economically insignificant. For other markets, the parsimonious three-factor model or its four-factor variants appear to be more suitable."
+abstract = "We test whether 35 stock characteristics can explain the cross-section of stock returns in India. We address the limitations of previous studies by using a comprehensive, survivorship bias free sample of all firms listed on the major Indian stock exchanges from 1994 to 2019. Results from Fama-Macbeth regressions show as many as 14 predictors breaching the significance threshold of t-stats greater than three. We also use machine learning methods to generate rolling one-month ahead out-of-sample forecasts of stock returns for all firms in our sample. We find substantial improvement in forecast accuracy when using machine learning compared to OLS. Further, we run additional tests for understanding the economic significance of our findings. Investment strategies based on model forecasts provide significant returns to investors."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -62,7 +62,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.emerald.com/insight/content/doi/10.1108/MF-12-2018-0607/full/html"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
